@@ -30,21 +30,22 @@ User data is securely stored in Firestore. Codewords are locally processed to pr
 
 ## 📷 Screenshots
 
-<img width="326" height="679" alt="image" src="https://github.com/user-attachments/assets/9c01f6bc-d6a9-4f51-9896-ec3ea39cfac4" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/9c01f6bc-d6a9-4f51-9896-ec3ea39cfac4" />
 
-<img width="329" height="713" alt="image" src="https://github.com/user-attachments/assets/c9f88d36-4818-4238-b145-f8f9fc50555a" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/c9f88d36-4818-4238-b145-f8f9fc50555a" />
 
-<img width="325" height="709" alt="image" src="https://github.com/user-attachments/assets/5fc60120-f4e5-426e-a09e-7acd897d6bcc" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/5fc60120-f4e5-426e-a09e-7acd897d6bcc" />
 
-<img width="328" height="711" alt="image" src="https://github.com/user-attachments/assets/35391b71-b03b-4f3d-b65d-a572eb2bd50e" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/35391b71-b03b-4f3d-b65d-a572eb2bd50e" />
 
-<img width="326" height="712" alt="image" src="https://github.com/user-attachments/assets/ff8b40d0-17fb-4f1e-b06e-a151f02414f5" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ff8b40d0-17fb-4f1e-b06e-a151f02414f5" />
 
-<img width="294" height="644" alt="image" src="https://github.com/user-attachments/assets/cd42bd97-bb36-4c8c-ab14-09988eb29a66" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/cd42bd97-bb36-4c8c-ab14-09988eb29a66" />
 
-<img width="337" height="739" alt="image" src="https://github.com/user-attachments/assets/ffcfe53f-0c79-41ac-8755-df10a6741d56" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ffcfe53f-0c79-41ac-8755-df10a6741d56" />
 
-<img width="355" height="778" alt="image" src="https://github.com/user-attachments/assets/ced3ab7b-d0af-4666-b7d7-59598937d11b" />
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/ced3ab7b-d0af-4666-b7d7-59598937d11b" />
+
 
 ## 🚀 Getting Started
 
