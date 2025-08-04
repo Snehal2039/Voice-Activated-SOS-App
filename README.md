@@ -46,8 +46,6 @@ User data is securely stored in Firestore. Codewords are locally processed to pr
 
 <img width="355" height="778" alt="image" src="https://github.com/user-attachments/assets/ced3ab7b-d0af-4666-b7d7-59598937d11b" />
 
-
-
 ## 🚀 Getting Started
 
 1. Clone this repository.
