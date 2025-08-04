@@ -1,16 +1,76 @@
-# sos_app
+# 🔊 Voice-Activated SOS App (VoiceAid)
 
-A new Flutter project.
+A Flutter-based personal safety app that empowers users to call for help using just their voice.
 
-## Getting Started
+## 🚨 Overview
 
-This project is a starting point for a Flutter application.
+The **Voice-Activated SOS App** is designed to provide quick and discreet emergency assistance. With a user-defined codeword, the app instantly sends an SOS message to designated emergency contacts—no need to touch your device.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔐 **Voice Triggered SOS**: Speak a predefined codeword to activate emergency alerts.
+- 💬 **Speech-to-Text Integration**: Utilizes a Speech-to-Text API for accurate and reliable voice recognition.
+- 📩 **Instant SMS Alerts**: Sends real-time SOS messages via the `telephony` package to saved contacts.
+- ☁️ **Firebase Backend**:
+  - Firestore for secure user data and contact storage.
+  - Cloud Functions for real-time backend processing.
+- 📱 **User-Friendly UI**: Clean Flutter-based interface with seamless setup of contacts and codeword.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter & Dart**: Frontend development
+- **Firebase Firestore**: Real-time NoSQL database for storing user info
+- **Firebase Cloud Functions**: Backend logic and automation
+- **Speech-to-Text API**: Voice recognition engine
+- **Telephony Package**: Native SMS sending on Android
+
+## 🔒 Privacy & Security
+
+User data is securely stored in Firestore. Codewords are locally processed to preserve user privacy. No voice data is transmitted or stored externally.
+
+## 📷 Screenshots
+
+<img width="326" height="679" alt="image" src="https://github.com/user-attachments/assets/9c01f6bc-d6a9-4f51-9896-ec3ea39cfac4" />
+
+<img width="329" height="713" alt="image" src="https://github.com/user-attachments/assets/c9f88d36-4818-4238-b145-f8f9fc50555a" />
+
+<img width="325" height="709" alt="image" src="https://github.com/user-attachments/assets/5fc60120-f4e5-426e-a09e-7acd897d6bcc" />
+
+<img width="328" height="711" alt="image" src="https://github.com/user-attachments/assets/35391b71-b03b-4f3d-b65d-a572eb2bd50e" />
+
+<img width="326" height="712" alt="image" src="https://github.com/user-attachments/assets/ff8b40d0-17fb-4f1e-b06e-a151f02414f5" />
+
+<img width="294" height="644" alt="image" src="https://github.com/user-attachments/assets/cd42bd97-bb36-4c8c-ab14-09988eb29a66" />
+
+<img width="337" height="739" alt="image" src="https://github.com/user-attachments/assets/ffcfe53f-0c79-41ac-8755-df10a6741d56" />
+
+<img width="355" height="778" alt="image" src="https://github.com/user-attachments/assets/ced3ab7b-d0af-4666-b7d7-59598937d11b" />
+
+
+
+## 🚀 Getting Started
+
+1. Clone this repository.
+2. Run `flutter pub get` to install dependencies.
+3. Set up your Firebase project and add `google-services.json`.
+4. Enable necessary permissions for microphone and SMS.
+5. Run on a physical Android device.
+
+## 📌 Future Enhancements
+
+- Location tracking in SOS messages
+- Multi-language voice recognition
+- Emergency call integration
+- Wearable device compatibility
+
+## 🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss your ideas.
+
+## 📄 License
+
+This project is open-source under the MIT License.
+
+---
+
+**Stay safe. Stay empowered.**
